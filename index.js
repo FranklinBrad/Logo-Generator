@@ -1,9 +1,9 @@
-const iquirer = require('inquirer')
+const inquirer = require('inquirer')
 const fs = require('fs')
 const generateSvg = require("./utils/generatesvg")
 
 
-const prompts = [
+const questions = [
     {
         type: "input",
         message: "please enter 3 letters for your logo",
@@ -23,7 +23,7 @@ const prompts = [
     {
         type: "input",
         message: "please ender a color for your shape",
-        name: "shape color"
+        name: "shapeColor"
     },
   
 
