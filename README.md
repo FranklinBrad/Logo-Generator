@@ -11,6 +11,12 @@
   ## Usage
  
   you will be given 4 prompts. Once all prompts are answered a logo will be created with your criteria.
+  
+  ## Walkthrough
+  
+
+https://github.com/FranklinBrad/Logo-Generator/assets/144159410/4fb2fe9e-2072-480c-beb5-4782f653f6d1
+
 
   ## Questions
 
