@@ -2,7 +2,7 @@
 
   ## Description
   
-  With this application you will be able to creat a personalized logo based off of of 4 choices. your given choises  are  3 letters  the color of your givin letters your choice of a shape and the color of the shape. when you select all of your prompts a logo will be generated for you.
+  Do you need a quick and easy way to make a logo for your business? With this application you will be able to creat a personalized logo based off of of 4 choices. your given choises  are  3 letters  the color of your givin letters your choice of a shape and the color of the shape. when you select all of your prompts a logo will be generated for you.
  
   ## Installation
  
